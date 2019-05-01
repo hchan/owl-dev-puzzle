@@ -1,9 +1,9 @@
 # Hootsuite Owl Dev Puzzle
 
-Hootsuite gave my big brother a coding puzzle on an USB pen about 5 years ago.
+![Hootsuite](https://hootsuite.com/dist/images/icons/favicon.ico) Hootsuite gave my big brother a coding puzzle on an USB pen about 5 years ago.
 
-The orginal puzzle can be found here.
+The orginal puzzle can be found [here] https://github.com/hcmec/owl-dev-puzzle/tree/master/originalHootsuitePuzzle
 
-And my soln ( python ) can be found here.
+And my soln ( python ) can be found [here] https://github.com/hcmec/owl-dev-puzzle/tree/master/mySoln
 
 
