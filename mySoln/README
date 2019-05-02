@@ -4,7 +4,7 @@ Note that the file ENCRYPTED is the original hootsuite puzzle's README with the 
 -- your TODO
 convert this README to README.md (mark down)
 * see: https://help.github.com/en/articles/basic-writing-and-formatting-syntax
-Read up on requirements.txt (Google "python requirements.txt")
+Read up on requirements.txt (Google "python requirements.txt or pipenv")
 Read up on regexp (Google Regexp and the python "re" module)
 We both make a "mistake" on uploading a soln publicly ( but its a good mistake ... can u guess what it is.  Hint https://www.reddit.com/r/MarvelStudiosSpoilers/ )
 Given that we made this mistake, I do have a suggestion for apologizing to Hootsuite
